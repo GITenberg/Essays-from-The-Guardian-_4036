@@ -1,0 +1,33 @@
+_repo: Essays-from-The-Guardian-_4036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter Horatio
+    - Pater, Walter H. (Walter Horatio)
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: Unaccented version in 7essg10.txt and 7essg10.zip, accented versions
+  in 8essg10.txt and 8essg10.zip
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: English literature -- Amiel's "Journal intime" -- Browning -- "Robert
+  Elsmere" -- Their Majesties' servants -- Wordsworth -- Mr. Gosse's poems -- Ferdinand
+  Fabre -- The "Contes" of M. Augustin Filon.
+title: Essays from 'The Guardian'
+url: http://www.gutenberg.org/ebooks/4036
